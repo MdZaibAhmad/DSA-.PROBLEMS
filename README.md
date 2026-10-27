@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -46,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -78,4 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1929-concatenation-of-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
