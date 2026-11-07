@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0344-reverse-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
