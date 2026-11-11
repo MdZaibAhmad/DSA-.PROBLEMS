@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
