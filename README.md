@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MdZaibAhmad/https-github.com-MdZaibAhmad-LeetCode-Solutions-leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
